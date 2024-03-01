@@ -1,0 +1,7 @@
+.env
+__pycache__/
+data/user_wardrobes_encrypted/
+mobile_app/build/
+mobile_app/.flutter_tool_state
+mobile_app/ios/Flutter/.symlinks/
+mobile_app/android/.gradle/
